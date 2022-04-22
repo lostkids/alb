@@ -3,4 +3,4 @@ a universal "accurate linux benchmark" that downloads &amp; compiles the linux k
 
 ## Installation
 
-> git clone https://github.com/datewat/alb
+> git clone https://github.com/lostkids/alb
